@@ -1,0 +1,6 @@
+﻿  Vigenere.c
+C:\Users\Daniela\source\repos\Cfiru\Vigenere.c(29,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cfiru\Vigenere.c(41,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cfiru\Vigenere.c(76,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cfiru\Vigenere.c(80,19): warning C4018: '<=': signed/unsigned mismatch
+  Cfiru.vcxproj -> C:\Users\Daniela\source\repos\Cfiru\Debug\Cfiru.exe
