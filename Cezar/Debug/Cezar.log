@@ -1,0 +1,15 @@
+﻿  Cezar.c
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(10,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(13,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(19,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(27,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(41,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(44,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(50,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(58,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(88,9): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(93,16): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(93,14): warning C4024: 'cryptmes': different types for formal and actual parameter 1
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(98,18): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+C:\Users\Daniela\source\repos\Cezar\Cezar.c(98,16): warning C4024: 'decryptmes': different types for formal and actual parameter 1
+  Cezar.vcxproj -> C:\Users\Daniela\source\repos\Cezar\Debug\Cezar.exe
